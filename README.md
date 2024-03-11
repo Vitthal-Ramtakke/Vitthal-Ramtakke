@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <a href="https://twitter.com/@vitthal_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@vitthal_codes?logo=twitter&style=for-the-badge" alt="@vitthal_codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vitthal_codes" target="blank"><img src="https://img.shields.io/twitter/follow/@vitthal_codes?logo=twitter&style=for-the-badge" alt="@vitthal_codes" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://vitthal-ramtakke.github.io/Portfolio-website/](https://vitthal-ramtakke.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at (https://vitthal-ramtakke.github.io/Portfolio-website/)
 
 - 📫 How to reach me **vithal.contact@gmail.com**
 
