@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at (https://vitthal-ramtakke.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at (https://vitthal-ramtakke.github.io/Portfolio/)
 
 - 📫 How to reach me **vithal.contact@gmail.com**
 
